@@ -3,4 +3,8 @@ $secondary: #C4FB6D;
 $light: #EEEEEE;
 $dark: #393E46;
 
+.card{
+  height: 30em;
+}
+
 @import "node_modules/bootstrap/scss/bootstrap";
