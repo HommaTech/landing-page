@@ -4,7 +4,7 @@ $light: #EEEEEE;
 $dark: #231f20;//#393E46;
 
 .card{
-  height: 30em;
+  min-height: 36em;
 }
 
 @import "node_modules/bootstrap/scss/bootstrap";
